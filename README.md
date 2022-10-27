@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fuqiang19
+- 👋 Hi, I’m fuqiang
 - 👀 I’m interested in Electronics music movies anime games
 - 🌱 I’m currently learning github
 - 📫 How to reach me fuqiangx1999@foxmail.com
